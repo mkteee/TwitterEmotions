@@ -2,7 +2,7 @@
 
 ### Uses the Machine Learning BERT-Model to detect emotions from a given tweet-dataset and incorporates this data into a new dataset to test if it is possible to achieve higher accuracy in predicting sensitivity exposure there.
 
-#### This was used to write a report (Exploring the Role of Privacy Exposure in Twitter), which is included as a pdf (TwitterEmotions.pdf) and has additional information on how this experiment was constructed, executed and evaluated. 
+#### This was used to write a report (Exploring the Role of Privacy Exposure in Twitter), which is included as a pdf and has additional information on how this experiment was constructed, executed and evaluated. 
 
 #### Additionally this was further optimized and examined in a published paper: https://doi.org/10.1145/3524010.3539501
 \
