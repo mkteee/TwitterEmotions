@@ -1,7 +1,11 @@
 # TwitterEmotions
 
-### Uses the BERT-Model to detect emotions from a given tweet-dataset.
+#### Uses the Machine Learning BERT-Model to detect emotions from a given tweet-dataset and incorporates this data into a new dataset to test if it is possible to achieve higher accuracy in predicting sensitivity exposure there.
 
+##### This was used to write a report (Exploring the Role of Privacy Exposure in Twitter), which is included as a pdf (TwitterEmotions.pdf) and has additional information on how this experiment was constructed, executed and evaluated. 
+\
+__Additionally this was further optimized and examined in a published paper: https://doi.org/10.1145/3524010.3539501__
+\
 __Relevant for the BERT-Model:__
 * Sentiment_model\_+\_first_Sensitivity_model.ipynb
 &rarr; This runs the sentiment prediction model and the extended sensitivity model (this includes constructing the feats).
